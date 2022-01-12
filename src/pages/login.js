@@ -132,6 +132,10 @@ const Login = () => {
                     <Box sx={styles.ForgetPass}>
                         <Link href="/me/password/forgetpassword">Forget Password?</Link>
                     </Box>
+                    <Box sx={{ textAlign: "center", mb: "10px" }}>
+                        Email: admin@admin.com <br />
+                        Password: admin12345
+                    </Box>
                     <Box>
                         <Button variant="SubmitButtons" type='submit'>
                             {loading ?

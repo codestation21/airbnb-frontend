@@ -3,7 +3,11 @@ with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/
 
 ## Getting Started
 
+<<<<<<< HEAD
 This is test commit
+=======
+This is test changess
+>>>>>>> e213bcd50660acbe15dd6ae421d661da715fcf56
 
 First, run the development server:
 
